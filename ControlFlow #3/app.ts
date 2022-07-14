@@ -216,7 +216,7 @@ console.log(" ");
  * }
  *
  *
- * if oyu want to break out because of a certain condition you can ->
+ * if you want to break out because of a certain condition you can ->
  *
  * while(condition) {
  *      // do something
@@ -330,4 +330,4 @@ while (index < 9) {
 
 console.log(" ");
 
-/* ------------------------------------------------------------------------ *** END OF CONTROLFLOW --------------------------------------------------------------------- */
+/* ------------------------------------------------------------------------ *** END OF CONTROLFLOW *** ----------------------------------------------------------------- */
